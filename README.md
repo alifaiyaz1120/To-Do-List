@@ -27,9 +27,9 @@ todo-flutterapp-team3.web.app
 - When you want to sign out, click the "Log Out" button located in the top-right corner. This will direct you to the home page.
 - All your tasks are saved, so if you log back in to your account, all the tasks you entered before will be displayed.
 
-<img width="983" alt="Screenshot 2023-12-15 at 10 51 31 PM" src="https://github.com/alifaiyaz1120/To-Do-List/assets/119764873/4296b0c6-563a-42e3-92f1-801de28507e5">
+<img width="900" alt="Screenshot 2023-12-15 at 10 51 31 PM" src="https://github.com/alifaiyaz1120/To-Do-List/assets/119764873/4296b0c6-563a-42e3-92f1-801de28507e5">
 
-<img width="723" alt="Screenshot 2023-12-15 at 10 49 57 PM" src="https://github.com/alifaiyaz1120/To-Do-List/assets/119764873/3d935858-a311-4622-a34e-f7be61621b89">
+<img width="900" alt="Screenshot 2023-12-15 at 10 49 57 PM" src="https://github.com/alifaiyaz1120/To-Do-List/assets/119764873/3d935858-a311-4622-a34e-f7be61621b89">
 
 
 
