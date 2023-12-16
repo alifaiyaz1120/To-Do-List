@@ -14,7 +14,7 @@ This task manager consist of a number of features, including:
 
 Click on this link to open our To-Do List website 
 
-todo-flutterapp-team3.web.app
+- todo-flutterapp-team3.web.app
 
 - Click on the "Register" button to navigate to the registration page.
 - On the registration page, enter your email, preferred username, and password  to create your account.
@@ -26,11 +26,6 @@ todo-flutterapp-team3.web.app
 - When you want to sign out, click the "Log Out" button located in the top-right corner. This will direct you to the home page.
 - All your tasks are saved, so if you log back in to your account, all the tasks you entered before will be displayed.
 
-## Authors
 
-Created by: Ali Faiyaz, Camilo Romero, Kevin Fong, Vanessa Louis, and Saliou Barry
-
-Login/Register Page: Vanessa Louis, Saliou Barry
-
-Task Page: Ali Faiyaz, Camilo Romero, Kevin Fong
+Created by: Ali Faiyaz
 
