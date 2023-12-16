@@ -1,5 +1,7 @@
 # To-Do List
 
+Created by: Ali Faiyaz
+
 ## Description
 This application is intended to offer users a digitized to-do list.
 This task manager consist of a number of features, including:
@@ -9,12 +11,11 @@ This task manager consist of a number of features, including:
 - Adding due dates to your task.
 - Adding time to your date.
 
-
 ## Usage
 
 Click on this link to open our To-Do List website 
 
-- todo-flutterapp-team3.web.app
+todo-flutterapp-team3.web.app
 
 - Click on the "Register" button to navigate to the registration page.
 - On the registration page, enter your email, preferred username, and password  to create your account.
@@ -27,5 +28,5 @@ Click on this link to open our To-Do List website
 - All your tasks are saved, so if you log back in to your account, all the tasks you entered before will be displayed.
 
 
-Created by: Ali Faiyaz
+
 
