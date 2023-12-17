@@ -23,7 +23,6 @@ git clone <repository-url>
 flutter run
 ```
 ## Link to To-Do List
-[Link](todo-flutterapp-team3.web.app)
 - Click on this [Link](todo-flutterapp-team3.web.app) to open our To-Do List website.
 
 ## Usage
