@@ -33,7 +33,10 @@ flutter run
 ```
 ## Link to To-Do List
 - Click on this Link below to open our To-Do List website.
-   - todo-flutterapp-team3.web.app
+```bash
+todo-flutterapp-team3.web.app
+```
+
 
 ## Usage
 1. Click on the "Register" button to navigate to the registration page.
