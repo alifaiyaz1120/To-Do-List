@@ -32,7 +32,7 @@ git clone https://github.com/alifaiyaz1120/To-Do-List.git
 flutter run
 ```
 ## Link to To-Do List
-- Click on this Link below to open our To-Do List website.
+- Below is the link to open our To-Do List website.
 ```bash
 todo-flutterapp-team3.web.app
 ```
