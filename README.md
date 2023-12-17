@@ -25,7 +25,7 @@ This To-Do List application is built using Flutter, Firebase, Dart. To run the a
 1. Ensure you have Flutter and Dart installed on your system.
 2. Clone the repository.
 ```bash
-git clone <repository-url>
+git clone https://github.com/alifaiyaz1120/To-Do-List.git
 ```
 3. Run the application 
 ```bash
