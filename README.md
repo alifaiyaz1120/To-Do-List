@@ -32,7 +32,8 @@ git clone https://github.com/alifaiyaz1120/To-Do-List.git
 flutter run
 ```
 ## Link to To-Do List
-- Click on this [Link](todo-flutterapp-team3.web.app) to open our To-Do List website.
+- Click on this Link below to open our To-Do List website.
+   - todo-flutterapp-team3.web.app
 
 ## Usage
 1. Click on the "Register" button to navigate to the registration page.
