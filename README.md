@@ -11,8 +11,17 @@ This application offers users a digitized to-do list with the following features
 - Adding due dates to tasks
 - Adding time to due dates
 
-## How to Run locally 
-- This To-Do List application is built using Flutter, Firebase, Dart. To run the application:
+## Technologies
+- Frontend: Dart + Flutter
+- Backend: Firebase
+    - User Authentication: Firebase Authentication
+     - Database: Firestore
+     - Hosting: Firebase Hosting
+
+## Running the Application Locally:
+
+This To-Do List application is built using Flutter, Firebase, Dart. To run the application:
+
 1. Ensure you have Flutter and Dart installed on your system.
 2. Clone the repository.
 ```bash
